@@ -1,0 +1,10 @@
+version: '3'
+services:
+  container:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    tty: true
+    command: /bin/bash -c "sleep infinity"
+    volumes:
+      - ./workspace:/workspace

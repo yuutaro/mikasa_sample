@@ -1,0 +1,11 @@
+6322087_Mikasa,7,9
+RandomAI_773,1,0
+RandomAI_586,0,1
+WHITE,1,0
+RandomAI_570,0,1
+RandomAI_350,0,1
+RandomAI_845,1,0
+RandomAI_999,0,1
+RandomAI_312,1,0
+RandomAI_324,1,0
+RandomAI_302,1,0
